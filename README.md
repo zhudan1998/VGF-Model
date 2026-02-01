@@ -1,9 +1,7 @@
 
 # VGF Model - README.md
 
-我已经将完整的英文README内容保存为Markdown文件。请查看以下内容：
 
-```markdown
 # Vijnana Gauge Field Model (VGF)
 
 ## Project Overview
